@@ -1,0 +1,24 @@
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Changelog for package aruco_mapping
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+1.0.1 (2015-10-09)
+------------------
+* 1.0.0
+* CHANGELOG
+* fix
+* adding CHANGELOG
+* removed pal_vision_segmentation dependency
+* Contributors: durovsky
+
+1.0.0 (2015-10-09)
+------------------
+* removed pal_vision_segmentation dependency
+* Contributors: durovsky
+
+
+0.1.0 (2015-10-09)
+------------------
+* prerelease version
+* version 1.0.0
+* Contributors: Frantisek Durovsky, durovsky
