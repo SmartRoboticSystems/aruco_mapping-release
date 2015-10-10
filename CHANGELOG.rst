@@ -2,6 +2,11 @@
 Changelog for package aruco_mapping
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.0.2 (2015-10-10)
+------------------
+* added visualization_msgs dependency
+* Contributors: durovsky
+
 1.0.1 (2015-10-09)
 ------------------
 * 1.0.0
