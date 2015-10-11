@@ -1,0 +1,48 @@
+ros-jade-aruco-mapping (1.0.4-0utopic) utopic; urgency=high
+
+  * msg file addopted to  coding style rules
+  * Contributors: durovsky
+
+ -- Frantisek Durovsky <frantisek.durovsky@smartroboticsys.eu>  Sat, 10 Oct 2015 22:00:00 -0000
+
+ros-jade-aruco-mapping (1.0.3-0utopic) utopic; urgency=high
+
+  * updated package.xml
+  * Contributors: durovsky
+
+ -- Frantisek Durovsky <frantisek.durovsky@smartroboticsys.eu>  Fri, 09 Oct 2015 22:00:00 -0000
+
+ros-jade-aruco-mapping (1.0.2-0utopic) utopic; urgency=high
+
+  * added visualization_msgs dependency
+  * Contributors: durovsky
+
+ -- Frantisek Durovsky <frantisek.durovsky@smartroboticsys.eu>  Fri, 09 Oct 2015 22:00:00 -0000
+
+ros-jade-aruco-mapping (1.0.1-0utopic) utopic; urgency=high
+
+  * 1.0.0
+  * CHANGELOG
+  * fix
+  * adding CHANGELOG
+  * removed pal_vision_segmentation dependency
+  * Contributors: durovsky
+
+ -- Frantisek Durovsky <frantisek.durovsky@smartroboticsys.eu>  Thu, 08 Oct 2015 22:00:00 -0000
+
+ros-jade-aruco-mapping (1.0.0-0utopic) utopic; urgency=high
+
+  * removed pal_vision_segmentation dependency
+  * Contributors: durovsky
+
+ -- Frantisek Durovsky <frantisek.durovsky@smartroboticsys.eu>  Thu, 08 Oct 2015 22:00:00 -0000
+
+ros-jade-aruco-mapping (0.1.0-0utopic) utopic; urgency=high
+
+  * prerelease version
+  * version 1.0.0
+  * Contributors: Frantisek Durovsky, durovsky
+
+ -- Frantisek Durovsky <frantisek.durovsky@smartroboticsys.eu>  Thu, 08 Oct 2015 22:00:00 -0000
+
+
